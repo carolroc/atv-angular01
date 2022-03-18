@@ -9,20 +9,20 @@ export const products = [
   {
     id: 1,
     name: 'Carol Phone',
-    price: 799,
-    description: 'A large phone with one of the best screens',
+    price: 1000,
+    description: 'Novo e criativo, ideal para leitores.',
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras',
+    name: 'Kindle',
+    price: 300,
+    description: 'Leia em qualquer lugar, a qualquer hora.',
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: '',
+    name: 'iPhone 11',
+    price: 2000,
+    description: 'Leve uma camera de cinema no seu bolso.',
   },
 ];
 
